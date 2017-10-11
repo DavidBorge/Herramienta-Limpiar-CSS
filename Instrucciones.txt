@@ -1,0 +1,8 @@
+1. Sustitiur el index.html por el index.html y los CSS enlazados que queramos limpiar.
+
+2. Nos situamos en la carpeta raíz de nuestro proyecto y hacemos Shift+Clic derecho >  “Abrir una ventana de comandos aquí”, 
+para abrir una ventana de comandos de Windows situados en la raíz de nuestro proyecto.
+
+3. Ejecutar el comando: grunt
+
+4. Recoger el CSS limpio de la carpeta "cleancss".
